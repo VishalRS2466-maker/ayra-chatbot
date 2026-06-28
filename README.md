@@ -1,4 +1,4 @@
-# 🤖 Ayra — AI Conversational Assistant
+#  Ayra — AI Conversational Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Intent%20Classification-0E7C7B?style=for-the-badge)
